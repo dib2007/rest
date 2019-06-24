@@ -2,10 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "First post",
+      "author": "Alu"
+    },
+    {
+      "id": 2,
+      "title": "Second post",
+      "author": "Potol"
+    },
+    {
+      "id": 3,
+      "title": "Third post",
+      "author": "Kumro"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
